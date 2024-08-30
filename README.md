@@ -13,3 +13,7 @@ Code: https://github.com/betaniarodrigues/CPC
 ## 2024 BRACIS -- An Evaluation of Temporal Neighborhood Coding Variants in Smartphone-Based Human Activity Recognition
 
 Code: https://github.com/gustavo-luz/TNC_variations_HAR
+
+## 2024 BRACIS -- Comparing LIME and SHAP global explanations for Human Activity Recognition
+
+Code: https://github.com/H-IAAC/XAI-HAR
